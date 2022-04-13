@@ -4,5 +4,5 @@ applications:
    random-route: false
    memory: 128M
 services:
-- Cloudant-31-GMS
+- Cloudant-3l-GMS
 - NLU-64-GMS
