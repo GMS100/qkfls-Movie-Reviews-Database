@@ -3,3 +3,6 @@ applications:
  - name: movies-reviews-database
    random-route: false
    memory: 128M
+services:
+- Cloudant-31-GMS
+- NLU-64-GMS
